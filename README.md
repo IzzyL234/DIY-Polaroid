@@ -3,3 +3,4 @@ This is a DIY polaroid using a thermal printer, an ESP32-CAM, and a battery! It 
 
 BOM:
 |Item|Link|Cost|
+----  ---- ---
