@@ -5,6 +5,21 @@ This is a DIY polaroid using a thermal printer, an ESP32-CAM, and a battery! It 
 As someone who loves to take photos and keeps lots of instant camera/photo booth photos at home, I excitedly bought a polaroid a couple years ago. However, due to the high cost of polaroid film, I have unfortunately only used it sparingly, unable to capture daily moments with my friends, pets, and family, as I had initially hoped for. With this thermal printer and camera duo, I will be able to take photos in a similar style of instant cameras, but without having to worry about wasting film or money! On Amazon, you can find thermal paper worth $0.7 per roll and on AliExpress, $0.33 per roll. 
 
 This is also a fun way for me to learn more about hardware!
+
+To use:
+---
+1. Slide bottom of case open, then slide battery adapter on to the battery
+2. press the capture button at the top
+3. wait for the photo to print out from the top!
+4. to power off, open the bottom again and slide the battery off
+
+How it works:
+----
+1. Pressing the shutter button sends a message to the ESP32-CAM to take a picture
+2. Once a picture is taken, the ESP32 processes the image and converts it into a black-and-white bitmap suitable for thermal printing.
+3. The processed image data is sent to the thermal printer through a serial (TTL) connection.
+4. The thermal printer prints the image onto receipt paper in real time.
+5. The entire system is powered by a rechargeable 12V battery connected to a buck converter, which safely steps the voltage down to 5V for the ESP32-CAM and printer.
 ________________________________________________
 <img width="457" height="654" alt="image" src="https://github.com/user-attachments/assets/e5c0b401-4615-44ad-9cd2-7227e43da462" />
 _______________________________________________
