@@ -20,6 +20,11 @@ How it works:
 3. The processed image data is sent to the thermal printer through a serial (TTL) connection.
 4. The thermal printer prints the image onto receipt paper in real time.
 5. The entire system is powered by a Dewalt 12V battery connected to a buck converter, which safely steps the voltage down to 5V for the ESP32-CAM and printer.
+
+Other notes:
+- Copper wires will be used to connect battery to buck converter and will be screwed in
+- Dupont wires will be used for the ESP32-CAM connections
+- Components will be secured with electrical tape/hot glue if needed
 ________________________________________________
 <img width="457" height="654" alt="image" src="https://github.com/user-attachments/assets/e5c0b401-4615-44ad-9cd2-7227e43da462" />
 _______________________________________________
