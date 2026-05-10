@@ -19,7 +19,7 @@ How it works:
 2. Once a picture is taken, the ESP32 processes the image and converts it into a black-and-white bitmap suitable for thermal printing.
 3. The processed image data is sent to the thermal printer through a serial (TTL) connection.
 4. The thermal printer prints the image onto receipt paper in real time.
-5. The entire system is powered by a rechargeable 12V battery connected to a buck converter, which safely steps the voltage down to 5V for the ESP32-CAM and printer.
+5. The entire system is powered by a Dewalt 12V battery connected to a buck converter, which safely steps the voltage down to 5V for the ESP32-CAM and printer.
 ________________________________________________
 <img width="457" height="654" alt="image" src="https://github.com/user-attachments/assets/e5c0b401-4615-44ad-9cd2-7227e43da462" />
 _______________________________________________
