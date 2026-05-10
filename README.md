@@ -42,3 +42,7 @@ BOM:
 Total cost: $47.67
 
 Cost of Polaroid: $149.99 (no film included) :(
+
+Some sources for inspiration:
+1. https://www.hackster.io/Mellow_labs/build-your-own-esp32-instant-camera-f12649
+2. https://community.dfrobot.com/makelog-308490.html
