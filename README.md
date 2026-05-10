@@ -8,7 +8,7 @@ This is also a fun way for me to learn more about hardware!
 _________________________________________________________________________________________________________________________________________________________________________
 <img width="292" height="417" alt="image" src="https://github.com/user-attachments/assets/fbade61f-ba15-4be2-9c67-3eb0a538d1c8" />
 
-
+_________________________________________________________________________________________________________________________________________________________________________
 
 BOM:
 | Item | Link | Cost |
@@ -21,3 +21,4 @@ BOM:
 | Battery Adapter | [link](https://www.amazon.com/IRONFACE-Adapter-Battery-Connector-Converters/dp/B09N42RJKW?dib=eyJ2IjoiMSJ9.oCZc-aoONPVaFxal9DTtx-6KL2yZ94qZI2Zugcpw8lJj7mh2zpaaa9oT2_6hT48pwSpGBmd14Z9O5dqe2HZ9xzM5yytY3PReNihy6ucxuBUJoaXt8wtTOBHxzwccyyEDTLPLCGygb2465f3L8LZq1y6gr-yIRIFat2vHMFJfyxQYzDiV018OYCS8EWVUCk2wyxLHhlrryWDQAXP7Bcfuubiri_0RwumPt3mQSQfCE55cJ61H2Xyvt_5StvjMG4V9zh1VpqLCoZgkx4rMtfqXAVaer8g6xGVwETX0wUSd00A.rvUsnDPZQhd0JZ_diJQnLEZCCa9tLJ9Pz7-rX47IRRE&dib_tag=se&keywords=dewalt+12v+battery+adapter&qid=1777760229&sr=8-6](https://www.aliexpress.us/item/3256804829833196.html?spm=a2g0o.productlist.main.7.1ca1677eoNBPwU&algo_pvid=10033973-7fa6-49f7-b681-4145cc736248&algo_exp_id=10033973-7fa6-49f7-b681-4145cc736248-6&pdp_ext_f=%7B%22order%22%3A%2286%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%216.79%210.99%21%21%216.79%210.99%21%402101e80f17778602221225138e9188%2112000031351317664%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A67c9d4b3%3Bm03_new_user%3A-29895%3BpisId%3A5000000203537378&curPageLogUid=4T7q3wMN1Bqc&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005016147948%7C_p_origin_prod%3A)) | $0.99 | 
 ---------------
 Total cost: $47.67
+Cost of Polaroid: $149.99 (no film included) :(
