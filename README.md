@@ -9,6 +9,11 @@ ________________________________________________
 <img width="457" height="654" alt="image" src="https://github.com/user-attachments/assets/e5c0b401-4615-44ad-9cd2-7227e43da462" />
 _______________________________________________
 
+Wiring:
+<img width="678" height="326" alt="image" src="https://github.com/user-attachments/assets/b867340c-4df4-46f1-adc7-6e2598ed23b6" />
+
+__________________________________________________
+
 BOM:
 | Item | Link | Cost |
 --- | --- | --- |
