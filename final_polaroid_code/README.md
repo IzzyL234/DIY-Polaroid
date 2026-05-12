@@ -22,6 +22,7 @@ When button is pressed, ESP32-CAM will capture a frame
 general file structure:
 
 final_polaroid_code/
+
 -final_polaroid_code.ino
 
 -camera_setup.h
