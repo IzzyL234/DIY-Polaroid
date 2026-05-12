@@ -1,3 +1,6 @@
+
+!The code here is untested and includes placeholders that will be updated once I can experiment and test with the real printer 
+
 This folder will contain the main usable firmware for the DIY Polaroid camera. 
 
 ## Overall code flow:
