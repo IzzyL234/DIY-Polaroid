@@ -25,6 +25,8 @@ Other notes:
 - Copper wires will be used to connect battery to buck converter and will be screwed in
 - Dupont wires will be used for the ESP32-CAM connections
 - Components will be secured with electrical tape/hot glue if needed
+- Power Reqs: 3.5 or 5v for ESP32-CAM and 12V for printer
+  
 printer details:
 <img width="1489" height="1005" alt="image" src="https://github.com/user-attachments/assets/956e3383-9656-4820-b4ba-8a2d3c577c38" />
 
