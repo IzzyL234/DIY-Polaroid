@@ -25,6 +25,9 @@ Other notes:
 - Copper wires will be used to connect battery to buck converter and will be screwed in
 - Dupont wires will be used for the ESP32-CAM connections
 - Components will be secured with electrical tape/hot glue if needed
+printer details:
+<img width="1489" height="1005" alt="image" src="https://github.com/user-attachments/assets/956e3383-9656-4820-b4ba-8a2d3c577c38" />
+
 ________________________________________________
 <img width="457" height="654" alt="image" src="https://github.com/user-attachments/assets/e5c0b401-4615-44ad-9cd2-7227e43da462" />
 _______________________________________________
