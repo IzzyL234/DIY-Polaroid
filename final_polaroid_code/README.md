@@ -23,6 +23,9 @@ general file structure:
 
 final_polaroid_code/
 -final_polaroid_code.ino
+
 -camera_setup.h
+
 -printer_setup.h
+
 -image_processing.h
