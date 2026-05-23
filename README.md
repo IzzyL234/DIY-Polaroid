@@ -33,8 +33,12 @@ Other notes:
 CAD Details:
 ------
 - The red button at the top is the only functional button. The others are part of the outer casing design.
+
+  
 <img width="424" height="337" alt="image" src="https://github.com/user-attachments/assets/6e2f4a3b-f86d-451c-b38f-438f7ebd9f53" />
 The bottom is a sliding bottom that, when pulled out, leaves room to slide in the battery into the adapter.
+
+
 <img width="420" height="313" alt="image" src="https://github.com/user-attachments/assets/fb817163-8acf-4fe6-abf0-1de481f877e6" />
 
   
@@ -59,9 +63,9 @@ BOM:
 | Thermal Printer | (https://www.aliexpress.us/item/3256809632695801.html) | $19.69 |
 | Button | (https://www.aliexpress.us/item/3256810419379908.html) | $0.99 | 
 | Wire Cable (optional) | (https://www.amazon.com/dp/B09WHQ18KL) | $7.88 for a roll | 
-| Battery Adapter | (https://www.amazon.com/dp/B09WHQ18KL)) | $0.99 | 
+| Battery Adapter | (https://www.amazon.com/dp/B07PPD7LWBr) | $6.99 | 
 ---------------
-Total cost: $47.67
+Total cost: $53.67
 
 Cost of Polaroid: $149.99 (no film included) :(
 
