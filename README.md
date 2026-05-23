@@ -15,7 +15,8 @@ To use:
 
 How it works:
 ----
-<img width="699" height="517" alt="image" src="https://github.com/user-attachments/assets/126c2d0f-aec8-4567-ad9a-bf8d0a978f22" />
+<img width="735" height="548" alt="image" src="https://github.com/user-attachments/assets/30ccb34a-b430-43ce-b10a-2ec7de5cec72" />
+
 
 1. Pressing the shutter button sends a message to the ESP32-CAM to take a picture
 2. Once a picture is taken, the ESP32 processes the image and converts it into a black-and-white bitmap suitable for thermal printing.
@@ -28,6 +29,14 @@ Other notes:
 - Dupont wires will be used for the ESP32-CAM connections
 - Components will be secured with electrical tape/hot glue if needed
 - Power Reqs: 3.5 or 5v for ESP32-CAM and 12V for printer
+
+CAD Details:
+------
+- The red button at the top is the only functional button. The others are part of the outer casing design.
+<img width="424" height="337" alt="image" src="https://github.com/user-attachments/assets/6e2f4a3b-f86d-451c-b38f-438f7ebd9f53" />
+The bottom is a sliding bottom that, when pulled out, leaves room to slide in the battery into the adapter.
+<img width="420" height="313" alt="image" src="https://github.com/user-attachments/assets/fb817163-8acf-4fe6-abf0-1de481f877e6" />
+
   
 printer details:
 <img width="1489" height="1005" alt="image" src="https://github.com/user-attachments/assets/956e3383-9656-4820-b4ba-8a2d3c577c38" />
