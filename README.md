@@ -57,8 +57,49 @@ Wiring
 <img width="678" height="326" alt="image" src="https://github.com/user-attachments/assets/b867340c-4df4-46f1-adc7-6e2598ed23b6" />
 
 __________________________________________________
+## Assembly Instructions
+
+### 1. Print the enclosure parts
+3D print the main enclosure pieces:
+
+- `top.step`
+- `bottom_box.step`
+- `outside_box.step`
+
+Make sure the parts fit together before installing electronics.
+
+### 2. Prepare the electronics
+Gather the main components:
+
+- ESP32-CAM
+- Thermal printer
+- Shutter button
+- Battery or power adapter
+- Wires/jumper cables
+- Screws or mounting hardware
+
+### 3. Mount the ESP32-CAM
+Place the ESP32-CAM inside the enclosure so the camera lens lines up with the front opening.
+
+Secure it so it does not move when the device is picked up or shaken.
+
+### 4. Mount the thermal printer
+Place the thermal printer in the printer slot with the paper exit facing outward.
+
+Make sure there is enough space for the receipt paper roll and that the paper can feed out smoothly.
+
+### 5. Install the shutter button
+Insert the button into the button hole on the enclosure.
+
+Connect one side of the button to a GPIO pin on the ESP32-CAM and the other side to GND.
+
+### 6. Connect printer serial wires
+Connect the ESP32-CAM to the thermal printer using serial communication.
+
+Wiring: see wiring diagram above
 
 BOM:
+---
 | Item | Link | Cost |
 --- | --- | --- |
 | Battery |(https://www.aliexpress.us/item/3256811448662800.html) | $11.54 |
