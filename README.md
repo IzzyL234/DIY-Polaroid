@@ -15,6 +15,8 @@ To use:
 
 How it works:
 ----
+<img width="699" height="517" alt="image" src="https://github.com/user-attachments/assets/126c2d0f-aec8-4567-ad9a-bf8d0a978f22" />
+
 1. Pressing the shutter button sends a message to the ESP32-CAM to take a picture
 2. Once a picture is taken, the ESP32 processes the image and converts it into a black-and-white bitmap suitable for thermal printing.
 3. The processed image data is sent to the thermal printer through a serial (TTL) connection.
