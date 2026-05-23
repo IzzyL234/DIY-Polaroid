@@ -45,9 +45,11 @@ CAD Details:
   
 <img width="745" height="503" alt="image" src="https://github.com/user-attachments/assets/956e3383-9656-4820-b4ba-8a2d3c577c38" />
  _______________________________________________
+ 
 Zine
 -----
 <img width="457" height="654" alt="image" src="https://github.com/user-attachments/assets/e5c0b401-4615-44ad-9cd2-7227e43da462" />
+
 _______________________________________________
 
 Wiring
