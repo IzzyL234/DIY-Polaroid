@@ -33,17 +33,17 @@ Other notes:
 CAD Details:
 ------
 - The red button at the top is the only functional button. The others are part of the outer casing design.
-
-  
 <img width="424" height="337" alt="image" src="https://github.com/user-attachments/assets/6e2f4a3b-f86d-451c-b38f-438f7ebd9f53" />
-The bottom is a sliding bottom that, when pulled out, leaves room to slide in the battery into the adapter.
+
+
+- The bottom is a sliding bottom that, when pulled out, leaves room to slide in the battery into the adapter.
 
 
 <img width="420" height="313" alt="image" src="https://github.com/user-attachments/assets/fb817163-8acf-4fe6-abf0-1de481f877e6" />
 
   
 printer details:
-<img width="1489" height="1005" alt="image" src="https://github.com/user-attachments/assets/956e3383-9656-4820-b4ba-8a2d3c577c38" />
+<img width="745" height="503" alt="image" src="https://github.com/user-attachments/assets/956e3383-9656-4820-b4ba-8a2d3c577c38" />
 
   [source](https://www.aliexpress.us/item/2251801289844172.html?spm=a2g0o.productlist.main.7.57dd7c24dBbUDR&algo_pvid=06a76f2e-c004-4b5d-b338-92d0601850c3&algo_exp_id=06a76f2e-c004-4b5d-b338-92d0601850c3-6&pdp_ext_f=%7B%22order%22%3A%2277%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2122.67%2118.86%21%21%2122.67%2118.86%21%40210328d417778534163348069e3f68%2112000053272105761%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A67c9d4b3%3Bm03_new_user%3A-29895%3BpisId%3A5000000204886261&curPageLogUid=BWBIKVt1n01r&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1476158924%7C_p_origin_prod%3A)
 ________________________________________________
