@@ -105,9 +105,9 @@ BOM:
 | Battery |(https://www.aliexpress.us/item/3256811448662800.html) | $11.54 |
 | ESP32-CAM + wires + FDTI | (https://www.amazon.com/Freenove-Dual-core-Microcontroller-Wireless-Projects/dp/B0CJJHXD1W)) | $6.58 | 
 | Thermal Printer | (https://www.aliexpress.us/item/3256809632695801.html) | $19.69 |
-| Button | (https://www.aliexpress.us/item/3256810419379908.html) | $0.99 | 
+| Button | (https://www.amazon.com/dp/B07PPD7LWB) | $6.99 | 
 | Wire Cable (optional) | (https://www.amazon.com/dp/B09WHQ18KL) | $7.88 for a roll | 
-| Battery Adapter | (https://www.amazon.com/dp/B07PPD7LWBr) | $6.99 | 
+| Battery Adapter | (https://www.amazon.com/dp/B09N42RJKW) | $6.99 | 
 ---------------
 Total cost: $53.67
 
