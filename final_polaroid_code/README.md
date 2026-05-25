@@ -21,15 +21,3 @@ This folder will contain the main usable firmware for the DIY Polaroid camera.
 
 The shutter button will be connected to one of the ESP32-CAM GPIO pins
 When button is pressed, ESP32-CAM will capture a frame
-
-general file structure:
-
-final_polaroid_code/
-
--final_polaroid_code.ino
-
--camera_setup.h
-
--printer_setup.h
-
--image_processing.h
