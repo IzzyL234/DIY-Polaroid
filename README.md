@@ -104,12 +104,11 @@ BOM:
 --- | --- | --- |
 | Battery |(https://www.aliexpress.us/item/3256811448662800.html) | $11.54 |
 | ESP32-CAM + wires + FDTI | (https://www.amazon.com/Freenove-Dual-core-Microcontroller-Wireless-Projects/dp/B0CJJHXD1W)) | $6.58 | 
-| Thermal Printer | (https://www.aliexpress.us/item/3256809632695801.html) | $19.69 |
+| Thermal Printer (film roll included) | (https://www.aliexpress.us/item/3256809632695801.html) | $19.69 |
 | Button | (https://www.amazon.com/dp/B07PPD7LWB) | $6.99 | 
-| Wire Cable (optional) | (https://www.amazon.com/dp/B09WHQ18KL) | $7.88 for a roll | 
-| Battery Adapter | (https://www.amazon.com/dp/B09N42RJKW) | $6.99 | 
+| Battery Adapter | (https://www.amazon.com/dp/B09N42RJKW) | $16.90 | 
 ---------------
-Total cost: $53.67
+Total cost: $61.70
 
 Cost of Polaroid: $149.99 (no film included) :(
 
