@@ -54,7 +54,8 @@ _______________________________________________
 
 Wiring
 -----
-<img width="678" height="326" alt="image" src="https://github.com/user-attachments/assets/b867340c-4df4-46f1-adc7-6e2598ed23b6" />
+<img width="754" height="359" alt="image" src="https://github.com/user-attachments/assets/81aa8298-50e9-4600-a6af-9986487fd086" />
+
 
 __________________________________________________
 ## Assembly Instructions
