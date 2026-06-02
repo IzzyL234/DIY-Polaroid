@@ -32,11 +32,14 @@ Other notes:
 
 CAD Details:
 ------
-- The red button at the top is the only functional button. The others are part of the outer casing design.
-<img width="424" height="337" alt="image" src="https://github.com/user-attachments/assets/6e2f4a3b-f86d-451c-b38f-438f7ebd9f53" />
+- The button will be placed through the hole at the top and is the only functional button. The others are part of the outer casing design.
 
 <img width="501" height="480" alt="image" src="https://github.com/user-attachments/assets/f4a49491-a1a2-491a-be38-ff46406c373e" />
+<br><br>
+
 <img width="418" height="352" alt="image" src="https://github.com/user-attachments/assets/c1a05b4f-d936-420c-8c18-197e28634d9d" />
+<br><br>
+
 
 Notes:
 - The printer rests on a platform with areas for the wires to go through
