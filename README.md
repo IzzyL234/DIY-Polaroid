@@ -35,10 +35,16 @@ CAD Details:
 - The red button at the top is the only functional button. The others are part of the outer casing design.
 <img width="424" height="337" alt="image" src="https://github.com/user-attachments/assets/6e2f4a3b-f86d-451c-b38f-438f7ebd9f53" />
 
+<img width="501" height="480" alt="image" src="https://github.com/user-attachments/assets/f4a49491-a1a2-491a-be38-ff46406c373e" />
+<img width="418" height="352" alt="image" src="https://github.com/user-attachments/assets/c1a05b4f-d936-420c-8c18-197e28634d9d" />
 
-- The bottom is a sliding bottom that, when pulled out, leaves room to slide in the battery into the adapter.
-  
-<img width="840" height="626" alt="image" src="https://github.com/user-attachments/assets/fb817163-8acf-4fe6-abf0-1de481f877e6" />
+Notes:
+- The printer rests on a platform with areas for the wires to go through
+- The buck converter and ESP32 CAM will be secured to the sides with velcro tape (on the back of the convertor and across the back of the ESP32)
+- The battery will be secured to the sliding bottom with velcro tape so that to dissassemble, you slide the bottom out and pull the adapter off
+- When not in use, the adapter will be placed on the side, inside the box
+
+
 
   
 - printer details:
@@ -59,16 +65,6 @@ Wiring
 
 __________________________________________________
 ## Assembly Instructions
-<img width="501" height="480" alt="image" src="https://github.com/user-attachments/assets/f4a49491-a1a2-491a-be38-ff46406c373e" />
-
-
-<img width="1325" height="1123" alt="image" src="https://github.com/user-attachments/assets/c72f1670-e4c2-43d5-b95e-941cb15b9930" />
-- The printer rests on a platform with areas for the wires to go through
-- The buck converter and ESP32 CAM will be secured to the sides with velcro tape (on the back of the convertor and across the back of the ESP32)
-- The battery will be secured to the sliding bottom with velcro tape so that to dissassemble, you slide the bottom out and pull the adapter off
-- When not in use, the adapter will be placed on the side, inside the box
-
-
 
 ### 1. Print the enclosure parts
 3D print the main enclosure pieces:
