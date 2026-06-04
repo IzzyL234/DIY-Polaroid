@@ -34,6 +34,8 @@ CAD Details:
 ------
 - The button will be placed through the hole at the top and is the only functional button. The others are part of the outer casing design.
 
+I chose to use velcro tape in areas where I want the components to be secured, but still have freedom to unstick and move around. 
+
 <img width="501" height="480" alt="image" src="https://github.com/user-attachments/assets/f4a49491-a1a2-491a-be38-ff46406c373e" />
 <br><br>
 
