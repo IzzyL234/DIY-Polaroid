@@ -40,14 +40,12 @@ CAD Details:
 <img width="418" height="352" alt="image" src="https://github.com/user-attachments/assets/c1a05b4f-d936-420c-8c18-197e28634d9d" />
 <br><br>
 
-
 Notes:
 - The printer rests on a platform with areas for the wires to go through
 - The buck converter and ESP32 CAM will be secured to the sides with velcro tape (on the back of the convertor and across the back of the ESP32)
 - The battery will be secured to the sliding bottom with velcro tape so that to dissassemble, you slide the bottom out and pull the adapter off
 - When not in use, the adapter will be placed on the side, inside the box
-
-
+- The top will stay on by itself
 
   
 - printer details:
@@ -57,7 +55,7 @@ Notes:
  
 Zine
 -----
-<img width="457" height="654" alt="image" src="https://github.com/user-attachments/assets/e5c0b401-4615-44ad-9cd2-7227e43da462" />
+<img width="1182" height="190" alt="image" src="https://github.com/user-attachments/assets/f7145b7b-036b-4910-a4ae-ace54fa30018" />
 
 _______________________________________________
 
@@ -107,6 +105,10 @@ Connect one side of the button to a GPIO pin on the ESP32-CAM and the other side
 Connect the ESP32-CAM to the thermal printer using serial communication.
 
 Wiring: see wiring diagram above
+
+## Firmware Instructions
+### 1. Upload the file "polaroid code" into Arduino as a sketch and upload to the ESP32
+Double check that the pins noted in the code match what you actually have wired
 
 BOM:
 ---
