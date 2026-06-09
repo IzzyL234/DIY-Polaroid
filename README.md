@@ -8,8 +8,8 @@ This is also a fun way for me to learn more about hardware!
 
 To use:
 ---
-1. Slide bottom of case open, then slide battery adapter on to the battery
-2. press the capture button at the top
+1. Press and hold button on top for 2 sec. 
+2. press the capture button at the top once
 3. wait for the photo to print out from the top!
 4. to power off, open the bottom again and slide the battery off
 
@@ -27,27 +27,25 @@ How it works:
 Other notes:
 - Copper wires will be used to connect battery to buck converter and will be screwed in
 - Dupont wires will be used for the ESP32-CAM connections
-- Components will be secured with electrical tape/hot glue if needed
 - Power Reqs: 3.5 or 5v for ESP32-CAM and 12V for printer
 
 CAD Details:
 ------
 - The button will be placed through the hole at the top and is the only functional button. The others are part of the outer casing design.
 
-I chose to use velcro tape in areas where I want the components to be secured, but still have freedom to unstick and move around. 
+<img width="274" height="178" alt="image" src="https://github.com/user-attachments/assets/c208ac15-6a6c-4839-ad74-b42953c8a09e" />
+-There is also a cut out on the platform for the wires under the printer to go through smoothly
 
-<img width="501" height="480" alt="image" src="https://github.com/user-attachments/assets/f4a49491-a1a2-491a-be38-ff46406c373e" />
 <br><br>
 
-<img width="418" height="352" alt="image" src="https://github.com/user-attachments/assets/c1a05b4f-d936-420c-8c18-197e28634d9d" />
-<br><br>
+Side View:
+<img width="260" height="255" alt="image" src="https://github.com/user-attachments/assets/a06651fa-afb2-4f8f-a89c-5f0f50d8fea6" />
+
 
 Notes:
 - The printer rests on a platform with areas for the wires to go through
-- The buck converter and ESP32 CAM will be secured to the sides with velcro tape (on the back of the convertor and across the back of the ESP32)
-- The battery will be secured to the sliding bottom with velcro tape so that to dissassemble, you slide the bottom out and pull the adapter off
-- When not in use, the adapter will be placed on the side, inside the box
-- The top will stay on by itself
+- The buck converter and ESP32 CAM will be secured to the sides with snap pieces
+- The top will stay on by itself, it is secured with a fitted lid
 
   
 - printer details:
