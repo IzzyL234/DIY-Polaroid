@@ -57,7 +57,7 @@ Notes:
  
 Zine
 -----
-<img width="1182" height="190" alt="image" src="https://github.com/user-attachments/assets/f7145b7b-036b-4910-a4ae-ace54fa30018" />
+<img width="1410" height="2000" alt="image" src="https://github.com/user-attachments/assets/05294e94-e150-495c-bc32-4ebaff136cee" />
 
 _______________________________________________
 
