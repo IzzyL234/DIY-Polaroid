@@ -15,6 +15,7 @@ To use:
 
 How it works:
 ----
+Diagram 1:
 <img width="735" height="548" alt="image" src="https://github.com/user-attachments/assets/30ccb34a-b430-43ce-b10a-2ec7de5cec72" />
 
 
@@ -32,7 +33,8 @@ Other notes:
 CAD Details:
 ------
 - The button will be placed through the hole at the top and is the only functional button. The others are part of the outer casing design.
-
+<br><br>
+Diagram 2:
 <img width="431" height="268" alt="image" src="https://github.com/user-attachments/assets/c716ac47-dac1-4b57-a76d-36720dea1652" />
 
 -There is also a cut out on the platform for the wires under the printer to go through smoothly
@@ -40,6 +42,8 @@ CAD Details:
 <br><br>
 
 Side View:
+<br><br>
+Diagram 3:
 <img width="260" height="255" alt="image" src="https://github.com/user-attachments/assets/a06651fa-afb2-4f8f-a89c-5f0f50d8fea6" />
 
 
@@ -50,7 +54,7 @@ Notes:
 
   
 - printer details:
-  
+
 <img width="372.5" height="251.5" alt="image" src="https://github.com/user-attachments/assets/956e3383-9656-4820-b4ba-8a2d3c577c38" />
  _______________________________________________
  
@@ -62,6 +66,7 @@ _______________________________________________
 
 Wiring
 -----
+Diagram 4:
 <img width="754" height="359" alt="image" src="https://github.com/user-attachments/assets/81aa8298-50e9-4600-a6af-9986487fd086" />
 
 
@@ -75,7 +80,6 @@ __________________________________________________
 - `bottom_box.step`
 - `outside_box.step`
 
-Make sure the parts fit together before installing electronics.
 
 ### 2. Prepare the electronics
 Gather the main components:
@@ -85,31 +89,27 @@ Gather the main components:
 - Shutter button
 - Battery or power adapter
 - Wires/jumper cables
-- Screws or mounting hardware
 
-### 3. Mount the ESP32-CAM
-Place the ESP32-CAM inside the enclosure so the camera lens lines up with the front opening.
+### 3. Fit the components inside
+Place the ESP32-CAM inside the enclosure so the camera lens lines up with the front opening. It should snap into place
+Place the buck converter inside the enclosure under the ESP32-CAM. It should snap into place. 
+Slide the battery adapter onto the battery and slide it into the bottom section of the enclosure. The wire should go up through the cut out on the side.
+Place the thermal printer on top of the platform so that the wires from the bottom fit through the cutout on the platform. 
+Wires should snap into place on the sides. 
+Connect the button to the wire and loop the wire through the hole in the cap. 
 
-Secure it so it does not move when the device is picked up or shaken.
-
-### 4. Mount the thermal printer
-Place the thermal printer in the printer slot with the paper exit facing outward.
-
-Make sure there is enough space for the receipt paper roll and that the paper can feed out smoothly.
-
-### 5. Install the shutter button
-Insert the button into the button hole on the enclosure.
-
-Connect one side of the button to a GPIO pin on the ESP32-CAM and the other side to GND.
+See diagram Diagram 2 for visual details. 
+--
 
 ### 6. Connect printer serial wires
 Connect the ESP32-CAM to the thermal printer using serial communication.
 
 Wiring: see wiring diagram above
+--
 
 ## Firmware Instructions
 ### 1. Upload the file "polaroid code" into Arduino as a sketch and upload to the ESP32
-Double check that the pins noted in the code match what you actually have wired
+Double check that the pins noted in the code match what you actually have wired.
 
 BOM:
 ---
