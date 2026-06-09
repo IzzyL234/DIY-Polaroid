@@ -33,7 +33,8 @@ CAD Details:
 ------
 - The button will be placed through the hole at the top and is the only functional button. The others are part of the outer casing design.
 
-<img width="548" height="178" alt="image" src="https://github.com/user-attachments/assets/c208ac15-6a6c-4839-ad74-b42953c8a09e" />
+<img width="431" height="268" alt="image" src="https://github.com/user-attachments/assets/c716ac47-dac1-4b57-a76d-36720dea1652" />
+
 -There is also a cut out on the platform for the wires under the printer to go through smoothly
 
 <br><br>
