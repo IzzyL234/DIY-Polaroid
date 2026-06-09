@@ -35,7 +35,7 @@ CAD Details:
 - The button will be placed through the hole at the top and is the only functional button. The others are part of the outer casing design.
 <br><br>
 Diagram 2:
-<img width="431" height="268" alt="image" src="https://github.com/user-attachments/assets/c716ac47-dac1-4b57-a76d-36720dea1652" />
+<img width="647" height="402" alt="image" src="https://github.com/user-attachments/assets/c716ac47-dac1-4b57-a76d-36720dea1652" />
 
 -There is also a cut out on the platform for the wires under the printer to go through smoothly
 
@@ -60,8 +60,7 @@ Notes:
  
 Zine
 -----
-<img width="1410" height="2000" alt="image" src="https://github.com/user-attachments/assets/05294e94-e150-495c-bc32-4ebaff136cee" />
-
+<img width="705" height="1000" alt="image" src="https://github.com/user-attachments/assets/05294e94-e150-495c-bc32-4ebaff136cee" />
 _______________________________________________
 
 Wiring
@@ -99,13 +98,12 @@ Wires should snap into place on the sides.
 Connect the button to the wire and loop the wire through the hole in the cap. 
 
 See diagram Diagram 2 for visual details. 
---
+
 
 ### 6. Connect printer serial wires
 Connect the ESP32-CAM to the thermal printer using serial communication.
 
 Wiring: see wiring diagram above
---
 
 ## Firmware Instructions
 ### 1. Upload the file "polaroid code" into Arduino as a sketch and upload to the ESP32
