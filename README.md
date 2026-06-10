@@ -12,6 +12,7 @@ This is also a fun way for me to learn more about hardware!
 How it works:
 ----
 Diagram 1:
+<br/><br/>
 <img width="735" height="548" alt="image" src="https://github.com/user-attachments/assets/30ccb34a-b430-43ce-b10a-2ec7de5cec72" />
 
 
