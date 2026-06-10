@@ -66,7 +66,7 @@ Side View:
 <img width="260" height="255" alt="image" src="https://github.com/user-attachments/assets/a06651fa-afb2-4f8f-a89c-5f0f50d8fea6" />
 <br/><br/>
 
-# Steps:
+##### Steps:
 1. Place the ESP32-CAM inside the enclosure so the camera lens lines up with the front opening. It should snap into place.
 2. Place the buck converter inside the enclosure under the ESP32-CAM. It should snap into place. .
 3. Slide the battery adapter onto the battery and slide it into the bottom section of the enclosure. The wire should go up through the cut out on the side.
