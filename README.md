@@ -1,13 +1,12 @@
 # DIY-Polaroid
-
-<img width="705" height="1000" alt="image" src="https://github.com/user-attachments/assets/05294e94-e150-495c-bc32-4ebaff136cee" />
-<br/>
 This is a DIY polaroid using a thermal printer, an ESP32-CAM, and a battery! It allows you to take pictures and have them printed out, in black in white, in real time on receipt paper. 
 
 As someone who loves to take photos and keeps lots of instant camera/photo booth photos at home, I excitedly bought a polaroid a couple years ago. However, due to the high cost of polaroid film, I have unfortunately only used it sparingly, unable to capture daily moments with my friends, pets, and family, as I had initially hoped for. With this thermal printer and camera duo, I will be able to take photos in a similar style of instant cameras, but without having to worry about wasting film or money! On Amazon, you can find thermal paper worth $0.7 per roll and on AliExpress, $0.33 per roll. 
 
 This is also a fun way for me to learn more about hardware!
 
+<img width="705" height="1000" alt="image" src="https://github.com/user-attachments/assets/05294e94-e150-495c-bc32-4ebaff136cee" />
+<br/>
 
 How it works:
 ----
