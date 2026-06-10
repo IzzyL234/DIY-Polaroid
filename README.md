@@ -8,7 +8,7 @@ This is also a fun way for me to learn more about hardware!
 <img width="705" height="1000" alt="image" src="https://github.com/user-attachments/assets/05294e94-e150-495c-bc32-4ebaff136cee" />
 <br/>
 
-How it works:
+<span style="color: #2ECC71;"> How it Works: </span> 
 ----
 Diagram 1:
 <br/><br/>
