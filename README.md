@@ -32,7 +32,7 @@ Other notes:
 
 CAD Details:
 ------
-[STEP files and Full Assembly](Design-Submission-Materials)
+[STEP files and Full Assembly](Design_Submission_Materials)
 - The button will be placed through the hole at the top and is the only functional button. The others are part of the outer casing design.
 <br><br>
 Diagram 2:
