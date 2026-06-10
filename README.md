@@ -9,7 +9,6 @@ This is also a fun way for me to learn more about hardware!
 <br/>
 
 <span style="color: #2ECC71;">How it Works:</span>
-
 ----
 Diagram 1:
 <br/><br/>
