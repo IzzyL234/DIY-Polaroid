@@ -66,11 +66,17 @@ Side View:
 <br/><br/>
 
 -Place the ESP32-CAM inside the enclosure so the camera lens lines up with the front opening. It should snap into place
+<br/>
 -Place the buck converter inside the enclosure under the ESP32-CAM. It should snap into place. 
+<br/>
 -Slide the battery adapter onto the battery and slide it into the bottom section of the enclosure. The wire should go up through the cut out on the side.
+<br/>
 -Place the thermal printer on top of the platform so that the wires from the bottom fit through the cutout on the platform. 
+<br/>
 -Wires should snap into place on the sides. 
+<br/>
 -Connect the button to the wire and loop the wire through the hole in the cap. 
+<br/>
 
 See diagram above for visual details. 
 
