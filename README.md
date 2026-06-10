@@ -109,6 +109,9 @@ BOM:
 ---------------
 Total cost: $61.70
 
+[BOM csv](Design_Submission_Materials)
+<br/>
+
 Cost of Polaroid: $149.99 (no film included) :(
 
 Some sources for inspiration:
