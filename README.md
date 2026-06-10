@@ -1,17 +1,13 @@
 # DIY-Polaroid
 
+<img width="705" height="1000" alt="image" src="https://github.com/user-attachments/assets/05294e94-e150-495c-bc32-4ebaff136cee" />
+<br/>
 This is a DIY polaroid using a thermal printer, an ESP32-CAM, and a battery! It allows you to take pictures and have them printed out, in black in white, in real time on receipt paper. 
 
 As someone who loves to take photos and keeps lots of instant camera/photo booth photos at home, I excitedly bought a polaroid a couple years ago. However, due to the high cost of polaroid film, I have unfortunately only used it sparingly, unable to capture daily moments with my friends, pets, and family, as I had initially hoped for. With this thermal printer and camera duo, I will be able to take photos in a similar style of instant cameras, but without having to worry about wasting film or money! On Amazon, you can find thermal paper worth $0.7 per roll and on AliExpress, $0.33 per roll. 
 
 This is also a fun way for me to learn more about hardware!
 
-To use:
----
-1. Press and hold button on top for 2 sec. 
-2. press the capture button at the top once
-3. wait for the photo to print out from the top!
-4. to power off, open the bottom again and slide the battery off
 
 How it works:
 ----
@@ -30,48 +26,16 @@ Other notes:
 - Dupont wires will be used for the ESP32-CAM connections
 - Power Reqs: 3.5 or 5v for ESP32-CAM and 12V for printer
 
-CAD Details:
+Other Details:
 ------
 [STEP files and Full Assembly](Design_Submission_Materials)
-- The button will be placed through the hole at the top and is the only functional button. The others are part of the outer casing design.
-<br><br>
-Diagram 2:
-<img width="647" height="402" alt="image" src="https://github.com/user-attachments/assets/c716ac47-dac1-4b57-a76d-36720dea1652" />
-
--There is also a cut out on the platform for the wires under the printer to go through smoothly
-
-<br><br>
-
-Side View:
-<br><br>
-Diagram 3:
-<img width="260" height="255" alt="image" src="https://github.com/user-attachments/assets/a06651fa-afb2-4f8f-a89c-5f0f50d8fea6" />
-
-
-Notes:
-- The printer rests on a platform with areas for the wires to go through
-- The buck converter and ESP32 CAM will be secured to the sides with snap pieces
-- The top will stay on by itself, it is secured with a fitted lid
-
   
 - printer details:
 
 <img width="372.5" height="251.5" alt="image" src="https://github.com/user-attachments/assets/956e3383-9656-4820-b4ba-8a2d3c577c38" />
- _______________________________________________
- 
-Zine
------
-<img width="705" height="1000" alt="image" src="https://github.com/user-attachments/assets/05294e94-e150-495c-bc32-4ebaff136cee" />
-_______________________________________________
-
-Wiring
------
-Diagram 4:
-<img width="754" height="359" alt="image" src="https://github.com/user-attachments/assets/81aa8298-50e9-4600-a6af-9986487fd086" />
-
 
 __________________________________________________
-## Assembly Instructions
+## Assembly Instructions!
 
 ### 1. Print the enclosure parts
 3D print the main enclosure pieces:
@@ -91,24 +55,43 @@ Gather the main components:
 - Wires/jumper cables
 
 ### 3. Fit the components inside
-Place the ESP32-CAM inside the enclosure so the camera lens lines up with the front opening. It should snap into place
-Place the buck converter inside the enclosure under the ESP32-CAM. It should snap into place. 
-Slide the battery adapter onto the battery and slide it into the bottom section of the enclosure. The wire should go up through the cut out on the side.
-Place the thermal printer on top of the platform so that the wires from the bottom fit through the cutout on the platform. 
-Wires should snap into place on the sides. 
-Connect the button to the wire and loop the wire through the hole in the cap. 
 
-See diagram Diagram 2 for visual details. 
+Note: The button will be placed through the hole at the top and is the only functional button. The others are part of the outer casing design. The printer rests on a platform with areas for the wires to go through. The buck converter and ESP32 CAM will be secured to the sides with snap pieces. The top will stay on by itself, it is secured with a fitted lid.
+<br/><br/>
+
+<img width="647" height="402" alt="image" src="https://github.com/user-attachments/assets/c716ac47-dac1-4b57-a76d-36720dea1652" />
+<br/><br/>
+Side View:
+<img width="260" height="255" alt="image" src="https://github.com/user-attachments/assets/a06651fa-afb2-4f8f-a89c-5f0f50d8fea6" />
+<br/><br/>
+-Place the ESP32-CAM inside the enclosure so the camera lens lines up with the front opening. It should snap into place
+-Place the buck converter inside the enclosure under the ESP32-CAM. It should snap into place. 
+-Slide the battery adapter onto the battery and slide it into the bottom section of the enclosure. The wire should go up through the cut out on the side.
+-Place the thermal printer on top of the platform so that the wires from the bottom fit through the cutout on the platform. 
+-Wires should snap into place on the sides. 
+-Connect the button to the wire and loop the wire through the hole in the cap. 
+
+See diagram above for visual details. 
 
 
-### 6. Connect printer serial wires
+
+### 6. Wiring
 Connect the ESP32-CAM to the thermal printer using serial communication.
 
-Wiring: see wiring diagram above
+Wiring: see wiring diagram below
+<img width="754" height="359" alt="image" src="https://github.com/user-attachments/assets/81aa8298-50e9-4600-a6af-9986487fd086" />
+
 
 ## Firmware Instructions
 ### 1. Upload the file "polaroid code" into Arduino as a sketch and upload to the ESP32
 Double check that the pins noted in the code match what you actually have wired.
+
+To use:
+---
+1. Press and hold button on top for 2 sec. 
+2. press the capture button at the top once
+3. wait for the photo to print out from the top!
+4. to power off, open the bottom again and slide the battery off
 
 BOM:
 ---
