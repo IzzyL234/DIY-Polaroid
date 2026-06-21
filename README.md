@@ -5,7 +5,8 @@ As someone who loves to take photos and keeps lots of instant camera/photo booth
 
 This is also a fun way for me to learn more about hardware!
 
-![Uploading image.png…]()
+<img width="1410" height="2000" alt="image" src="https://github.com/user-attachments/assets/98c472d5-8af7-479d-b1a0-bb3f6d6ca148" />
+
 
 <br/>
 
