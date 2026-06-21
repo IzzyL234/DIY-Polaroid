@@ -70,6 +70,9 @@ Side View:
 <img width="260" height="255" alt="image" src="https://github.com/user-attachments/assets/a06651fa-afb2-4f8f-a89c-5f0f50d8fea6" />
 <br/><br/>
 
+Side Note: All the failed prototypes that went into perfecting the casing design...
+<img width="172" height="129" alt="image" src="https://github.com/user-attachments/assets/80644d13-2c9a-4ad0-86d6-c151f500881e" />
+<br><br>
 #### Steps:
 1. Place the ESP32-CAM inside the enclosure so the camera lens lines up with the front opening. It should snap into place.
 2. Place the buck converter inside the enclosure under the ESP32-CAM. It should snap into place. .
@@ -121,3 +124,4 @@ Cost of Polaroid: $149.99 (no film included) :(
 Some sources for inspiration:
 1. https://www.hackster.io/Mellow_labs/build-your-own-esp32-instant-camera-f12649
 2. https://community.dfrobot.com/makelog-308490.html
+
