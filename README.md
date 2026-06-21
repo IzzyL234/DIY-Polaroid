@@ -5,7 +5,8 @@ As someone who loves to take photos and keeps lots of instant camera/photo booth
 
 This is also a fun way for me to learn more about hardware!
 
-<img width="176" height="250" alt="image" src="https://github.com/user-attachments/assets/98c472d5-8af7-479d-b1a0-bb3f6d6ca148" />
+<img width="176" height="250" alt="image" src="https://github.com/user-attachments/assets/b21cae55-7f64-4b00-af88-6938df5a837e" />
+
 
 <br/>
 Build Video: (https://youtu.be/IADWq9CQPvw)
